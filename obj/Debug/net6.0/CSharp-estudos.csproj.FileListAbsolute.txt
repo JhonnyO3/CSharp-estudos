@@ -1,0 +1,15 @@
+C:\Users\Jhonatas Dev\Desktop\CSharp-estudos\bin\Debug\net6.0\CSharp-estudos.exe
+C:\Users\Jhonatas Dev\Desktop\CSharp-estudos\bin\Debug\net6.0\CSharp-estudos.deps.json
+C:\Users\Jhonatas Dev\Desktop\CSharp-estudos\bin\Debug\net6.0\CSharp-estudos.runtimeconfig.json
+C:\Users\Jhonatas Dev\Desktop\CSharp-estudos\bin\Debug\net6.0\CSharp-estudos.dll
+C:\Users\Jhonatas Dev\Desktop\CSharp-estudos\bin\Debug\net6.0\CSharp-estudos.pdb
+C:\Users\Jhonatas Dev\Desktop\CSharp-estudos\obj\Debug\net6.0\CSharp-estudos.csproj.AssemblyReference.cache
+C:\Users\Jhonatas Dev\Desktop\CSharp-estudos\obj\Debug\net6.0\CSharp-estudos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonatas Dev\Desktop\CSharp-estudos\obj\Debug\net6.0\CSharp-estudos.AssemblyInfoInputs.cache
+C:\Users\Jhonatas Dev\Desktop\CSharp-estudos\obj\Debug\net6.0\CSharp-estudos.AssemblyInfo.cs
+C:\Users\Jhonatas Dev\Desktop\CSharp-estudos\obj\Debug\net6.0\CSharp-estudos.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatas Dev\Desktop\CSharp-estudos\obj\Debug\net6.0\CSharp-estudos.dll
+C:\Users\Jhonatas Dev\Desktop\CSharp-estudos\obj\Debug\net6.0\refint\CSharp-estudos.dll
+C:\Users\Jhonatas Dev\Desktop\CSharp-estudos\obj\Debug\net6.0\CSharp-estudos.pdb
+C:\Users\Jhonatas Dev\Desktop\CSharp-estudos\obj\Debug\net6.0\CSharp-estudos.genruntimeconfig.cache
+C:\Users\Jhonatas Dev\Desktop\CSharp-estudos\obj\Debug\net6.0\ref\CSharp-estudos.dll
